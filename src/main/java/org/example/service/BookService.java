@@ -1,4 +1,4 @@
-package org.example.sevice;
+package org.example.service;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;

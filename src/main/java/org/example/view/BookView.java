@@ -1,6 +1,6 @@
 package org.example.view;
 import org.example.model.BookModel;
-import org.example.sevice.BookService;
+import org.example.service.BookService;
 import java.time.LocalDate;
 import java.util.InputMismatchException;
 import java.util.Scanner;
