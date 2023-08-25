@@ -90,7 +90,7 @@ public class BookView {
             scanner.nextLine();
             return opcao;
         } catch (InputMismatchException e) {
-            System.out.println(e.getMessage());
+            System.out.println("Opção inválida, tente novamente!");
             scanner.nextLine();
         }
         return 1;
